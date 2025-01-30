@@ -13,3 +13,19 @@ body, html {
   float: left;
   overflow: 'scroll initial';
 }
+
+.side-container{
+  padding-top: 30px;
+}
+
+.side-row {
+  padding: 30px;
+}
+
+.tabled thead{
+  position: sticky;
+  top: 0;
+  background-color: #333;
+  color: white;
+  z-index: 1021;
+}
